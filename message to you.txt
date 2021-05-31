@@ -1,0 +1,13 @@
+
+Greetings all, hope you are having a great time.
+I have started the task on Wednesday at 10:30 pm, it took me around 6 hours to reach this state, 3 hours on the first day, and 3 on the remaining days.
+My time was scheduled to attend 3 goodbye parties of my friends, and to manage my work deliverables, because I am currently a project manager of the chatbot in Etisalat telecom company, so i needed to check change requests and other features are done and delivered.
+For these reasons i had very little time to complete the test, really enjoyed it, I have experimented with reactjs and other technologies before, so trying vue was a new challenge that I liked to experience, also AWS, was a very good addon to my experience and things to try it in the near future, i have solved some of the required tasks, but completing them currently will take a lot of my sleeping time, which will affect my work in the company currently, so I don't want that to happen, because it's my responsibility to deliver everything perfectly, and I felt that for this task, it would affect me more than it should, although I really enjoyed it and want to do more, and after checing your startup, i really got hooked and want to be part of it, just this time is really filled with lots of new features at work for the next 2 weeks.
+Hope you enjoy what I did.
+what I did:
+1- Made the test cases pass for the backend and frontend
+2- I added CORS for the AWS API
+3- Made the words change color based on the connection state. (Wanted to externalize CSS, but didn't work)
+4- Wanted to add a portfolio page to vuejs, but there was something with external js import, needed more time.
+5- made a successfull connection to the AWS lambda function. (Made another simple one but couldn't connect to it, but tests successfully on AWS). 
+
